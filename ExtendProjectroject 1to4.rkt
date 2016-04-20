@@ -413,6 +413,6 @@
 (test (interp2 (appC 'double (numC 10)) (list (fdC 'double 'x (plusC (idC 'x) (idC 'x))))) 20)
 
 
-
+;antep kızları nazlı cilveler
 
 
